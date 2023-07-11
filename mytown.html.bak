@@ -8,7 +8,7 @@
     <link rel="stylesheet" type="text/css" media="all" href="styles.css">
     <link rel="stylesheet" type="text/css" href="tswnavbar.css">
   </head>
-  <body> 
+  <body>
     <div id="tswcontainer">
       <div id="tswcontent">
         <div>
@@ -35,7 +35,6 @@
               <li><a href="index.html">Home</a></li>
               <li><a href="myinterests.html">My Interests</a></li>
               <li><a href="mytown.html">My Town</a></li>
-              <li><a href="https://youtube.com" target="_blank">TEST</a></li>
             </ul>
           </div>
         </div>
