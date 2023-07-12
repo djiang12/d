@@ -9,6 +9,17 @@
     <link rel="stylesheet" type="text/css" href="tswnavbar.css">
   </head>
   <body>
+    <div id="google_translate_element"></div>
+    <script type="text/javascript"> 
+        function googleTranslateElementInit() { 
+            new google.translate.TranslateElement(
+                {pageLanguage: 'en'}, 
+                'google_translate_element'
+            ); 
+        } 
+    </script>
+    <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+    </script> 
     <div id="tswcontainer">
       <div id="tswcontent">
         <div>
@@ -18,8 +29,10 @@
           to larger cities such as Framingham and Natick. Although I spend most
           my time boarding at school, I always enjoy my time at home.</div>
         <div><br>
-          <p><img src="https://www.livehome3d.com/assets/img/social/how-to-design-a-house.jpg"
-              alt="How to Design a House � Live Home 3D" style="width: 590px; height: 333px;"><img
+          <p><img src="https://www.livehome3d.com/assets/img/social/how-to-design-a-house.jpg"
+
+              alt="How to Design a House � Live Home 3D" style="width: 590px; height: 333px;"><img
+
               src="file:///C:/Users/djiang1/Pictures/southboro.png" style="width: 599px; height: 334px;"></p>
           <p><em>*not my actual house</em></p>
           <p><em><br>
@@ -33,6 +46,7 @@
               <li><a href="index.html">Home</a></li>
               <li><a href="myinterests.html">My Interests</a></li>
               <li><a href="mytown.html">My Town</a></li>
+              <li><a href="catvideo.html">Cat Video</a></li>
             </ul>
           </div>
         </div>
