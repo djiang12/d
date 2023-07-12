@@ -1,7 +1,7 @@
 <html lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>Cat Video</title>
+    <title>Game</title>
     <meta http-equiv="Content-Style-Type" content="text/css">
     <meta name="generator" content="thesitewizard.com's Layout Wizard 3.0.1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -23,13 +23,11 @@
     <div id="tswcontainer">
       <div id="tswcontent">
         <div>
-          <h1>Cat Video</h1>
+          <h1>Game</h1>
           <p><br>
-            <iframe src="https://www.youtube.com/embed/SB-qEYVdvXA" title="20 Minutes of Adorable Kittens 😍 | BEST Compilation"
+            <iframe src="https://cdn.htmlgames.com/JewelClassic/" allowfullscreen=""
 
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-
-              allowfullscreen="" height="720" frameborder="0" width="1280"></iframe></p>
+              height="720" frameborder="0" width="1280"></iframe></p>
           <p>&nbsp;</p>
         </div>
       </div>
