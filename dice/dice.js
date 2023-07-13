@@ -2,9 +2,8 @@ function roll() {
     const sides =6;
    var randomnumber= Math.floor(Math.random() *sides)+1
    let face = document.getElementById("face");
-   let img = document.getElementById("img");
    face.innerHTML = randomnumber;
-   img.innerHTML= randomnumber;
+   image.innerHTML = images[randomnmber]
 }
 var button = document.getElementById("button");
 button.addEventListener("click",roll);
