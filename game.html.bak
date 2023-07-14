@@ -1,4 +1,4 @@
-<html lang="en">
+<html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>Game</title>
@@ -22,13 +22,14 @@
     </script>
     <div id="tswcontainer">
       <div id="tswcontent">
-        <div>
-          <h1>Game</h1>
-          <p><br>
-            <iframe src="https://cdn.htmlgames.com/JewelClassic/" allowfullscreen=""
+        <div id="tswcontproper">
+          <h1>Game </h1>
+          <iframe src="https://cdn.htmlgames.com/JewelClassic/" allowfullscreen=""
 
-              height="720" frameborder="0" width="1280"></iframe></p>
-          <p>&nbsp;</p>
+            height="720" frameborder="0" width="1280"></iframe>
+          <p></p>
+          <p><br>
+          </p>
         </div>
       </div>
       <div id="tswsidecol">
@@ -40,6 +41,8 @@
               <li><a href="mytown.html">My Town</a></li>
               <li><a href="catvideo.html">Cat Video</a></li>
               <li><a href="game.html">Game</a></li>
+              <li><a href="GitHub.html">Git Hub</a></li>
+              <li><a href="diceroll.html">Dice Roll</a></li>
             </ul>
           </div>
         </div>
